@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNameCard</string>
+    <string name="str_gakka">情報工学科</string>
+    <string name="str_gaku">2年</string>
+    <string name="int_num">1701007</string>
+    <string name="str_name">齋藤 桃代</string>
+    <string name="int_tell">090-1111-1111</string>
+    <string name="str_nkname">ニックネーム</string>
+</resources>
